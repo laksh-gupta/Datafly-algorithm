@@ -1,0 +1,101 @@
+,id,age,city_birth,zip_code,disease
+0,1,41-60,Italy,250**,Cancer
+1,67,41-60,Italy,161**,AIDS
+2,17,0-20,Italy,730**,AIDS
+3,40,0-20,Italy,190**,Autism
+4,28,21-40,Italy,580**,Autism
+5,89,41-60,Italy,138**,Autism
+6,11,41-60,Italy,860**,AIDS
+7,20,41-60,Italy,850**,Autism
+8,88,41-60,Italy,870**,Autism
+9,68,61-80,Italy,340**,Heart disease
+10,64,41-60,Italy,980**,Alzheimer's disease
+11,5,41-60,Italy,270**,Heart disease
+12,78,41-60,Italy,380**,Anorexia
+13,25,21-40,Italy,560**,Heart disease
+14,58,21-40,Italy,410**,Autism
+15,46,0-20,Italy,150**,Anorexia
+16,85,0-20,Italy,530**,Heart disease
+17,11,0-20,Italy,390**,Cancer
+18,86,>80,Italy,161**,Heart disease
+19,43,0-20,Italy,20**,Autism
+20,11,0-20,Italy,250**,Cancer
+21,63,21-40,Italy,390**,Heart disease
+22,33,41-60,Italy,740**,Anorexia
+23,98,61-80,Italy,390**,Autism
+24,86,0-20,Italy,860**,Heart disease
+25,49,21-40,Italy,371**,Alzheimer's disease
+26,15,61-80,Italy,900**,AIDS
+27,8,0-20,Italy,390**,Autism
+28,53,41-60,Italy,160**,AIDS
+29,3,41-60,Italy,152**,Anorexia
+30,0,21-40,Italy,511**,AIDS
+31,15,21-40,Italy,390**,Anorexia
+32,98,41-60,Italy,560**,Heart disease
+33,91,>80,Italy,870**,AIDS
+34,93,>80,Italy,803**,Alzheimer's disease
+35,48,0-20,Italy,160**,Autism
+36,61,41-60,Italy,610**,AIDS
+37,26,61-80,Italy,270**,Autism
+38,73,0-20,Italy,210**,Heart disease
+39,4,41-60,Italy,810**,AIDS
+40,49,41-60,Italy,331**,Alzheimer's disease
+41,0,61-80,Italy,710**,Anorexia
+42,73,61-80,Italy,102**,AIDS
+43,57,21-40,Italy,900**,Autism
+44,34,0-20,Italy,170**,Anorexia
+45,46,61-80,Italy,810**,Heart disease
+46,40,61-80,Italy,600**,Alzheimer's disease
+47,39,61-80,Italy,820**,Anorexia
+48,57,41-60,Italy,230**,AIDS
+49,91,0-20,Italy,960**,Cancer
+50,31,61-80,Italy,380**,Anorexia
+51,65,21-40,Italy,510**,Heart disease
+52,1,0-20,Italy,840**,Anorexia
+53,52,0-20,Italy,300**,Alzheimer's disease
+54,56,21-40,Italy,380**,Heart disease
+55,30,61-80,Italy,250**,Anorexia
+56,41,>80,Italy,880**,AIDS
+57,79,41-60,Italy,901**,Heart disease
+58,90,0-20,Italy,410**,Anorexia
+59,60,>80,Italy,330**,Autism
+60,12,0-20,Italy,981**,Alzheimer's disease
+61,30,41-60,Italy,820**,Autism
+62,30,61-80,Italy,390**,Cancer
+63,93,>80,Italy,290**,Autism
+64,66,0-20,Italy,300**,AIDS
+65,6,0-20,Italy,260**,Anorexia
+66,75,>80,Italy,390**,Autism
+67,19,21-40,Italy,11**,Cancer
+68,1,41-60,Italy,260**,Heart disease
+69,68,>80,Italy,801**,Anorexia
+70,50,21-40,Italy,620**,Alzheimer's disease
+71,7,41-60,Italy,370**,Heart disease
+72,49,>80,Italy,288**,Anorexia
+73,68,61-80,Italy,900**,Alzheimer's disease
+74,87,21-40,Italy,268**,Alzheimer's disease
+75,31,>80,Italy,730**,Anorexia
+76,21,>80,Italy,660**,Cancer
+77,90,21-40,Italy,880**,Autism
+78,13,0-20,Italy,201**,Cancer
+79,38,0-20,Italy,670**,Heart disease
+80,12,0-20,Italy,400**,Heart disease
+81,7,0-20,Italy,120**,Anorexia
+82,71,>80,Italy,801**,Anorexia
+83,60,41-60,Italy,101**,Alzheimer's disease
+84,24,21-40,Italy,581**,Anorexia
+85,22,61-80,Italy,390**,Anorexia
+86,48,>80,Italy,880**,Cancer
+87,70,21-40,Italy,381**,AIDS
+88,47,0-20,Italy,980**,Cancer
+89,16,0-20,Italy,150**,Alzheimer's disease
+90,1,>80,Italy,870**,Heart disease
+91,30,>80,Italy,150**,Heart disease
+92,20,>80,Italy,160**,Autism
+93,50,61-80,Italy,570**,Heart disease
+94,99,61-80,Italy,902**,Alzheimer's disease
+95,51,>80,Italy,201**,Cancer
+96,82,21-40,Italy,150**,Autism
+97,31,21-40,Italy,410**,Anorexia
+98,75,0-20,Italy,940**,Heart disease
+99,10,21-40,Italy,301**,Autism
